@@ -6,9 +6,9 @@ import urllib.request
 import random
 
 
-r1 = urllib.request.urlopen("https://api.gouv.fr/les-api/api-geo")
-r2 = urllib.request.urlopen("http://calapi.inadiutorium.cz/")
-r3 = urllib.request.urlopen("https://lyricsovh.docs.apiary.io/")
+#r1 = urllib.request.urlopen("https://api.gouv.fr/les-api/api-geo")
+#r2 = urllib.request.urlopen("http://calapi.inadiutorium.cz/")
+#r3 = urllib.request.urlopen("https://lyricsovh.docs.apiary.io/")
 
 flub = ["£","£","£","£","£","£","£","£","£","£"]
 flui = ["₹","₹","₹","₹","₹","₹","₹","₹","₹","₹"]
