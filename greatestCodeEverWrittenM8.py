@@ -310,3 +310,6 @@ def dealer_hit():
             hit_or_stand_question_comparison() """
 
 
+guitar_strings = ["E", "A", "D", "G", "B", "E"]
+guitar_strings_but_backwards = ["E", "B", "G", "D", "A", "E"]
+best_fruit_of_all_time = ["Mangoooooooooooooooooooooos"]
