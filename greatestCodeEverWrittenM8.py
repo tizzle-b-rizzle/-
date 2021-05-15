@@ -2,7 +2,8 @@ import math
 from math import sin
 from math import cos
 from math import tan
-import urllib.request
+#import urllib.request
+#import request
 import random
 
 
