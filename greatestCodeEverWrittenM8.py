@@ -6,9 +6,9 @@ import urllib.request
 import random
 
 
-#r1 = urllib.request.urlopen("https://api.gouv.fr/les-api/api-geo")
-#r2 = urllib.request.urlopen("http://calapi.inadiutorium.cz/")
-#r3 = urllib.request.urlopen("https://lyricsovh.docs.apiary.io/")
+r1 = "urllib.request.urlopen(""https://api.gouv.fr/les-api/api-geo)"
+r2 = "urllib.request.urlopen(""http://calapi.inadiutorium.cz/)"
+r3 = "urllib.request.urlopen(""https://lyricsovh.docs.apiary.io/)"
 
 flub = ["£","£","£","£","£","£","£","£","£","£"]
 flui = ["₹","₹","₹","₹","₹","₹","₹","₹","₹","₹"]
@@ -95,6 +95,7 @@ scg = [
     "Blacklist",
     ]
 
+haha = """
 def collatz(number):
     try:
         number = int(number)
@@ -305,6 +306,6 @@ def dealer_hit():
             dealer_stand = "true"
             hit_or_stand_question_comparison()
         else:
-            hit_or_stand_question_comparison()
+            hit_or_stand_question_comparison() """
 
 
